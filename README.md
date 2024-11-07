@@ -18,8 +18,6 @@ Bienvenido al repositorio de mis juegos desarrollados en **Unity** usando **C#**
 
 ![Captura de pantalla del menú desplegable Code mostrando la opción Download ZIP](img/spaceterrorist.png)
 
-**Tecnología utilizada:** Unity, C#
-
 ---
 
 ### ⚔️ Form Warfare
@@ -37,8 +35,6 @@ Bienvenido al repositorio de mis juegos desarrollados en **Unity** usando **C#**
 
 ![Captura de pantalla del menú desplegable Code mostrando la opción Download ZIP](img/formwarfare.png)
 
-**Tecnología utilizada:** Unity, C#
-
 ---
 
 ### 🎩 Dash Survivors
@@ -49,9 +45,12 @@ Bienvenido al repositorio de mis juegos desarrollados en **Unity** usando **C#**
 
 ![Captura de pantalla del menú desplegable Code mostrando la opción Download ZIP](img/dashsurvivor.png)
 
-**Tecnología utilizada:** Unity, C#
-
 ---
+
+## Tecnologías utilizadas
+
+![C# logo](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/c-sharp.png)
+![Unity logo](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/unity.png)
 
 ## 💾 Cómo Descargar los Juegos desde GitHub
 
@@ -59,16 +58,8 @@ Para descargar y jugar estos juegos desde GitHub, sigue estos pasos:
 
 1. **Descargar el repositorio**: Busca el botón **Code** en la parte superior derecha de la lista de archivos y haz clic en él. Luego selecciona **Download ZIP** para descargar todo el repositorio en un archivo comprimido.
 
-   > **Imagen sugerida:** Captura de pantalla del menú desplegable **Code** mostrando la opción **Download ZIP**.
-
 2. **Extraer el archivo ZIP**: Una vez descargado, localiza el archivo ZIP en tu computadora y extrae su contenido en la ubicación que prefieras.
-
-   > **Imagen sugerida:** Captura de pantalla del archivo ZIP extraído y mostrando las carpetas de los juegos.
 
 3. **Seleccionar el juego y sistema operativo**: Dentro de la carpeta del repositorio descargado, elige el juego que quieres jugar (`Space Terrorist`, `Form Warfare`, o `Dash Survivors`). Dentro de cada una de estas carpetas, encontrarás dos subcarpetas, una para **Linux** y otra para **Windows**. Abre la carpeta correspondiente a tu sistema operativo.
 
-   > **Imagen sugerida:** Captura de pantalla mostrando las subcarpetas de cada juego para Linux y Windows.
-
 4. **Ejecutar el juego**: Una vez abierto el proyecto en Unity, haz clic en "Play" para comenzar a jugar.
-
-   > **Imagen sugerida:** Captura de pantalla de la interfaz de Unity con el botón "Play" seleccionado y la vista del juego lista para empezar.
