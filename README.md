@@ -8,8 +8,6 @@ Bienvenido al repositorio de mis juegos desarrollados en **Unity** usando **C#**
 
 ### 🚀 Space Terrorist
 
-![Imagen representativa de Space Terrorist](#)
-
 *Space Terrorist* es un emocionante juego 2D de combate espacial en el que manejas una nave y debes eliminar a los enemigos que se acercan. A medida que avanzas, desbloqueas **superpoderes** que te ayudan a sobrevivir y a ganar puntos.
 
 - Dos tipos de enemigos con diferentes comportamientos.
@@ -20,13 +18,11 @@ Bienvenido al repositorio de mis juegos desarrollados en **Unity** usando **C#**
 
 **Tecnología utilizada:** Unity, C#
 
-> **Imagen sugerida:** Captura de pantalla de una escena de batalla con la nave enfrentando a varios enemigos y superpoderes activados.
+![Captura de pantalla del menú desplegable Code mostrando la opción Download ZIP](img/spaceterrorist.png)
 
 ---
 
 ### ⚔️ Form Warfare
-
-![Imagen representativa de Form Warfare](#)
 
 *Form Warfare* es un juego de supervivencia donde controlas un **círculo pixelado** que debe derrotar oleadas de **rombos** enemigos. Cada enemigo tiene su propia categoría y dificultad, y puedes recoger mejoras que te ayudan a resistir en el campo de batalla.
 
@@ -41,13 +37,11 @@ Bienvenido al repositorio de mis juegos desarrollados en **Unity** usando **C#**
 
 **Tecnología utilizada:** Unity, C#
 
-> **Imagen sugerida:** Captura de pantalla de una batalla con el círculo enfrentando a varios rombos y mostrando los potenciadores en acción.
+![Captura de pantalla del menú desplegable Code mostrando la opción Download ZIP](img/formwarfare.png)
 
 ---
 
 ### 🎩 Dash Survivors
-
-![Imagen representativa de Dash Survivors](#)
 
 *Dash Survivors* es una versión de *Form Warfare* con una estética inspirada en **Geometry Dash**. En este juego, controlas el ícono de **Geometry Dash de dificultad normal** y te enfrentas a enemigos con el aspecto de **demonios** de Geometry Dash. La mecánica de juego es similar, pero el cambio de sprites le da un estilo visual único.
 
@@ -55,7 +49,7 @@ Bienvenido al repositorio de mis juegos desarrollados en **Unity** usando **C#**
 
 **Tecnología utilizada:** Unity, C#
 
-> **Imagen sugerida:** Captura de pantalla del personaje de Geometry Dash enfrentándose a los enemigos en el estilo de demonios.
+![Captura de pantalla del menú desplegable Code mostrando la opción Download ZIP](img/dashsurvivor.png)
 
 ---
 
