@@ -16,9 +16,9 @@ Bienvenido al repositorio de mis juegos desarrollados en **Unity** usando **C#**
   - **Disparo triple**: Aumenta la potencia de ataque.
   - **Vida extra**: Gana una vida adicional.
 
-**Tecnología utilizada:** Unity, C#
-
 ![Captura de pantalla del menú desplegable Code mostrando la opción Download ZIP](img/spaceterrorist.png)
+
+**Tecnología utilizada:** Unity, C#
 
 ---
 
@@ -35,9 +35,9 @@ Bienvenido al repositorio de mis juegos desarrollados en **Unity** usando **C#**
   - **Bomba**: Elimina a todos los enemigos en pantalla al activarse.
   - **Disparo**: Dispara una bala naranja de forma automatica cuando estas a cierta distancia del enemigo.
 
-**Tecnología utilizada:** Unity, C#
-
 ![Captura de pantalla del menú desplegable Code mostrando la opción Download ZIP](img/formwarfare.png)
+
+**Tecnología utilizada:** Unity, C#
 
 ---
 
@@ -47,9 +47,9 @@ Bienvenido al repositorio de mis juegos desarrollados en **Unity** usando **C#**
 
 - Inspirado en Geometry Dash.
 
-**Tecnología utilizada:** Unity, C#
-
 ![Captura de pantalla del menú desplegable Code mostrando la opción Download ZIP](img/dashsurvivor.png)
+
+**Tecnología utilizada:** Unity, C#
 
 ---
 
