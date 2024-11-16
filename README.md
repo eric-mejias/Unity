@@ -35,7 +35,7 @@ Bienvenido al repositorio de mis juegos desarrollados en **Unity** usando **C#**
 
 ![Captura de pantalla del menú desplegable Code mostrando la opción Download ZIP](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/formwarfare.png)
 
-![Whysper](https://github.com/Wysper)@Wysper
+[Whysper](https://github.com/WysperOtaku)
 
 ---
 
