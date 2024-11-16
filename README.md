@@ -34,6 +34,7 @@ Bienvenido al repositorio de mis juegos desarrollados en **Unity** usando **C#**
   - **Disparo**: Dispara una bala naranja de forma automatica cuando estas a cierta distancia del enemigo.
 
 ![Captura de pantalla del menú desplegable Code mostrando la opción Download ZIP](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/formwarfare.png)
+@Wysper
 
 ---
 
