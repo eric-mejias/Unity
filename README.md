@@ -37,8 +37,11 @@ Bienvenido al repositorio de mis juegos desarrollados en **Unity** usando **C#**
 
 #### CONTRIBUYENTES DEL PROYECTO
 El el perfil del **PRINCIPAL** creador del juego se puede ver el verdadero repositorio del proyecto.
+
 🌟 **[Whysper](https://github.com/WysperOtaku)** 🌟
+
 Link al verdadero repositorio del proyecto:
+
 ![vampireclonevivors](https://github.com/WysperOtaku/vampireclonevivors)
 
 ---
