@@ -35,7 +35,11 @@ Bienvenido al repositorio de mis juegos desarrollados en **Unity** usando **C#**
 
 ![Captura de pantalla del menú desplegable Code mostrando la opción Download ZIP](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/formwarfare.png)
 
-[Whysper](https://github.com/WysperOtaku)
+#### CONTRIBUYENTES DEL PROYECTO
+El el perfil del **PRINCIPAL** creador del juego se puede ver el verdadero repositorio del proyecto.
+🌟 **[Whysper](https://github.com/WysperOtaku)** 🌟
+Link al verdadero repositorio del proyecto:
+![vampireclonevivors](https://github.com/WysperOtaku/vampireclonevivors)
 
 ---
 
